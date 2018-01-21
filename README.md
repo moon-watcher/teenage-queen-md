@@ -6,3 +6,5 @@ Reverse engineering was done by Foxy.
 This is Alpha code ! Althought you can play , there's some graphical glitches
 
 Game & Assets are copyright ERE.
+
+Please see http://www.pascalorama.com/teenage-queen/
