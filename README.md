@@ -1,9 +1,10 @@
 # Teenage Queen For Megadrive
 
 this is my megadrive port of the Atari ST game  made by ERE.
+
 Reverse engineering was done by Foxy.
 
-This is Alpha code ! Althought you can play , there's some graphical glitches
+This is Alpha code ! Althought you can play, expect graphical glitches
 
 ![mockup](https://github.com/pascalorama/teenage-queen-md/blob/master/TQ-mockup.png)
 
