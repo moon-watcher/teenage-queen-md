@@ -1,6 +1,6 @@
 # Teenage Queen For Megadrive
 
-this is my megadrive port of the Atari ST game  made by ERE.
+This is my megadrive port of the Atari ST game  made by ERE.
 
 Reverse engineering was done by Foxy.
 
