@@ -54,7 +54,6 @@ are drawn, the players show their hands in order to find the winner.
 Credits
 =======
 Developer : Pascal & Foxy
-More game info : www.pascalorama.com
 
 Special thanks goes to (in no particular order):
 Foxy, Fonzie, Brian Peek, Tomy, Brandon Cobb, fr4nz, ZeGouky, Mariaud,
