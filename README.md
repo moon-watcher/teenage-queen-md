@@ -5,6 +5,8 @@ Reverse engineering was done by Foxy.
 
 This is Alpha code ! Althought you can play , there's some graphical glitches
 
+![mockup](https://github.com/pascalorama/teenage-queen-md/blob/master/TQ-mockup.png)
+
 How to play:
 ============
 At the start of the game, every player has 100 chips.  Five cards are then 
