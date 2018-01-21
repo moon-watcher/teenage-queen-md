@@ -1,0 +1,7 @@
+Cart	group  obj $0
+	section	M68Kcode,Cart
+
+68kBss	group  obj $ff0000
+	section	Vars,68kBss
+
+	include tqueen.cof
