@@ -63,6 +63,8 @@ Foxy, Fonzie, Brian Peek, Tomy, Brandon Cobb, fr4nz, ZeGouky, Mariaud,
 Michelle, Kaneda, WhiteSnake, Stef, Steve Snake, 
 all the genesis dev. scene and the supporters of this project :)
 
+THIS CODE IS NOT BE USE IN ANY COMMERCIAL PROJECTS WITHOUT MY WRITTEN CONSENT.
+
 Teenage Queen (c) 1988 Ere
 
 Please see http://www.pascalorama.com/teenage-queen/
